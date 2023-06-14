@@ -6,6 +6,7 @@ public class two {
     commonElements(list1, list2, i, j);
   }
 
+  // Exercise 2
   public static void commonElements(int[] l1, int[] l2, int i, int j) {
     if (i == l1.length || j == l2.length) {
       System.out.println("Done!");
