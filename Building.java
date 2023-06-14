@@ -1,4 +1,4 @@
-// Exercise 4B
+// Exercise 4B & C
 public class Building {
   String name;
   Apartment[] apt;
