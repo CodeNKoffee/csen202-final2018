@@ -9,7 +9,7 @@ public class one {
     sumArray(x, n);
   }
 
-  // Question 1A
+  // Exercise 1A & B
   public static void sumArray(int[] arr, int n) {
     for (int i = 0; i < arr.length; i++) {
       for (int j = i + 1; j < arr.length; j++) {
